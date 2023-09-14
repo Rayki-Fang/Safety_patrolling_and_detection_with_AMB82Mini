@@ -1,4 +1,4 @@
-# Safety-patrolling-and-detection-with-AMB82-Mini-
+# Safety-patrolling-and-detection-with-AMB82-Mini
 Safety patrolling and detection at construction sites is an application that require a microcontroller board with a camera and neural network capabilities. Hence, we will be using AMB82-Mini. This project can help improve safety, security, and monitoring at construction sites. Here's how you can implement it:
 ## Project Overview
 Create a safety patrolling and detection system that uses a camera and neural network for real-time monitoring and detection of potential safety hazards and incidents at construction sites.
